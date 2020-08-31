@@ -18,6 +18,7 @@
 ### Languages and tools:
 - Programming languages:
 [<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_32x32.png">][portfolio]
+[<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_32x32.png">][portfolio]
 [<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_32x32.png">][portfolio]
 [<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_32x32.png">][portfolio]
 [<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png">][portfolio]
