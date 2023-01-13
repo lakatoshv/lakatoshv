@@ -4,8 +4,7 @@
 [![Front end](https://img.shields.io/badge/Front%20end:-JavaScript/Angular-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 [![Back end](https://img.shields.io/badge/Back%20end:-Asp.Net%20MVC/Asp.Net%20Core-red.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-- I’m currently learning everithing.
-- 2020 Goals: Improve my skills, and contribute more.
+- I like to learn interesting technologies.
 
 ### Connect with me:
 [<img align='left' alt='http://lakatoshv.byethost8.com/resume.php?lang=en' width='22px' src='https://github.com/iconic/open-iconic/blob/master/svg/globe.svg' />][website]
@@ -13,7 +12,16 @@
 [<img align='left' alt='Me at LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' />][linkedin]
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakatoshv&layout=compact&count_private=true)](https://github.com/lakatoshv/github-readme-stats)
+#### STATS
+![My statistics](https://github-readme-stats.vercel.app/api?username=lakatoshv&count_private=true&show_icons=true&theme=tokyonight)
+
+#### STREAKS
+[![Abel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=lakatoshv&theme=blue-green)](https://github.com/lakatoshv#streaks)
+
+#### LANGUAGES
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakatoshv&hide=javascript,html)](https://github.com/lakatoshv/github-readme-stats)
+
+
 
 ### Languages and tools:
 - Programming languages:
@@ -43,8 +51,6 @@
 [<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][portfolio]
 [<img height="40" src="https://camo.githubusercontent.com/e2ce44383ce24e7cdbe80ce88282e6921dbc8577/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a736f6e2f6a736f6e2d617232312e737667">][portfolio]
 <br>
-
-![My statistics](https://github-readme-stats.vercel.app/api?username=lakatoshv&count_private=true&show_icons=true&theme=tokyonight)
 
 [website]: http://lakatoshv.byethost8.com/resume.php?lang=en
 [linkedin]: http://lakatoshv.byethost8.com/resume.php?lang=en
