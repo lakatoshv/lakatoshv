@@ -1,57 +1,84 @@
-## Hi there, I am Lakatosh Vitalii 👋
+<!-- Profile README -->
 
-### I am a Asp.Net software developer
-[![Front end](https://img.shields.io/badge/Front%20end:-JavaScript/Angular-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-[![Back end](https://img.shields.io/badge/Back%20end:-Asp.Net%20MVC/Asp.Net%20Core-red.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+<h1 align="center">Hi there, I'm Vitalii Lakatosh 👋</h1>
 
-- I like to learn interesting technologies.
+<h3 align="center">.NET Software Developer | Middle Engineer | Exploring Microservices & Cloud</h3>
 
-### Connect with me:
-[<img align='left' alt='http://lakatoshv.byethost8.com/resume.php?lang=en' width='22px' src='https://github.com/iconic/open-iconic/blob/master/svg/globe.svg' />][website]
-[<img align='left' alt='Me at LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
-[<img align='left' alt='Me at LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' />][linkedin]
-<br>
+<p align="center">
+  <a href="https://github.com/lakatoshv">
+    <img src="https://komarev.com/ghpvc/?username=lakatoshv&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://wakatime.com/@lakatoshv">
+    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Total coding time" />
+  </a>
+</p>
 
-#### STATS
-![My statistics](https://github-readme-stats.vercel.app/api?username=lakatoshv&count_private=true&show_icons=true&theme=tokyonight)
+---
 
-#### STREAKS
-[![Abel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=lakatoshv&theme=blue-green)](https://github.com/lakatoshv#streaks)
+### 🚀 About Me
+- 💻 Middle **.NET Developer** with 6+ years of experience in ASP.NET Core / MVC, Blazor, REST APIs.  
+- 🏗️ Actively exploring **Microservices, Azure Cloud, Docker, gRPC, Aspire**.  
+- 🗄️ Familiar with relational and non-relational databases: **SQL Server, MySQL, MongoDB**.  
+- 🧩 Knowledge of **encryption/decryption**, design patterns, async programming.  
+- 🎨 Frontend exposure: **Blazor, Angular**.  
+- 🌱 Currently learning **Message Brokers, Azure Services, AI/ML integrations**.  
+- 🎯 Goal: grow into **Senior / Team Lead** role while building scalable distributed systems.  
 
-#### LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakatoshv&hide=javascript,html)](https://github.com/lakatoshv/github-readme-stats)
+---
 
+### 📫 Connect with Me
+<p align="left">
+  <a href="http://lakatoshv.byethost8.com/resume.php?lang=en" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="30" />
+  </a>
+</p>
 
+---
 
-### Languages and tools:
-- Programming languages:
-[<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_32x32.png">][portfolio]
-[<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_32x32.png">][portfolio]
-[<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_32x32.png">][portfolio]
-[<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_32x32.png">][portfolio]
-[<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png">][portfolio]
-[<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_32x32.png">][portfolio]
-- Web technologies:
-[<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_32x32.png">][portfolio]
-[<img height="40" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_32x32.png">][portfolio]
-- Frameworks and libraries:
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png">][portfolio]
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][portfolio]
-[<img height="40" src="https://avatars1.githubusercontent.com/u/296074?s=30&v=4">][portfolio]
-[<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">][portfolio]
-[<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg">][portfolio]
-- Database Management Systems
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][portfolio]
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png">][portfolio]
-- Other:
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/terminal/terminal.png">][portfolio]
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/opengl/opengl.png">][portfolio]
-[<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">][portfolio]
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">][portfolio]
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][portfolio]
-[<img height="40" src="https://camo.githubusercontent.com/e2ce44383ce24e7cdbe80ce88282e6921dbc8577/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a736f6e2f6a736f6e2d617232312e737667">][portfolio]
-<br>
+### 🛠️ Tech Stack
 
-[website]: http://lakatoshv.byethost8.com/resume.php?lang=en
-[linkedin]: http://lakatoshv.byethost8.com/resume.php?lang=en
-[portfolio]: http://lakatoshv.byethost8.com/resume.php?lang=en
+**Languages:**  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frameworks & Libraries:**  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+**Databases:**  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools & Cloud:**  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakatoshv&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakatoshv&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakatoshv&layout=compact&theme=tokyonight&hide=html,css" alt="Top languages" />
+</p>
+
+---
+
+✨ *Always learning, always building.*  
